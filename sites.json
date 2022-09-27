@@ -3,7 +3,7 @@
         {
             "name":"Google",
             "englishName":"Google",
-            "logo":"https://v2cross.com/static/img/Google.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/Google.png",
             "url":"https://www.google.com",
             "des":"您可以选择通过点击广告的方式来资助我们",
             "englishDes":""
@@ -16,13 +16,13 @@
             "englishDes":""
         },{
             "name":"全网小说阅读器",
-            "logo":"https://v2cross.com/static/img/v2reading.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/v2reading.png",
             "url":"https://v2reading.com",
             "des":"大更新，增加站点集合列表，全网1000+小说网站，完全免费，彻底实现小说自由"
         },{
             "name":"关于节点测速正常无法访问网页的问题",
             "englishName":"about DNS questions",
-            "logo":"https://www.ris.world/wp-content/uploads/2018/09/update.jpg",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1881",
             "des":"",
             "englishDes":""
@@ -30,14 +30,14 @@
         {
             "name":"Foxo",
             "englishName":"Foxo",
-            "logo":"https://v2cross.com/static/img/Foxo.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/FoxoVPN.png",
             "url":"https://v2cross.com/archives/1859",
             "des":"专为小白打造，一键连接",
             "englishDes":"Designed for novices, one-click connection"
         },{
             "name":"软件使用视频教程(建议开启代理后观看)",
             "englishName":"Video tutorial",
-            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://shadowrocket.v2cross.com/video",
             "des":"",
             "englishDes":""
@@ -45,14 +45,14 @@
         {
             "name":"新手使用教程-新手先看这里",
             "englishName":"Novice tutorial- for newer",
-            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1840",
             "des":"",
             "englishDes":""
         },{
             "name":"本工具介绍",
             "englishName":"Introductions",
-            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1853",
             "des":"",
             "englishDes":""
@@ -60,7 +60,7 @@
         {
             "name":"版本升级日志",
             "englishName":"Version logs",
-            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1855",
             "des":"",
             "englishDes":""
@@ -68,7 +68,7 @@
         {
             "name":"历史版本下载页",
             "englishName":"History versions",
-            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1857",
             "des":"",
             "englishDes":""
@@ -76,7 +76,7 @@
         {
             "name":"应用内广告说明",
             "englishName":"About Ads",
-            "logo":"https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1851",
             "des":"",
             "englishDes":""
