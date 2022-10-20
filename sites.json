@@ -14,26 +14,8 @@
             "url":"https://v2cross.com/archives/1799",
             "des":"免费且高质量",
             "englishDes":""
-        },{
-            "name":"华为云HECS本月限时优惠",
-            "englishName":"Huawei Cloud Promotions",
-            "logo":"https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/wangxue/header/logo.svg",
-            "url":"https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=01ef8732-1063-460f-861c-cbc67046b18b&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905",
-            "des":"2C4G超高配置HECS仅售118元/13个月，活动月底截止，仅本入口有效",
-            "englishDes":""
-        },{
-            "name":"华为云HECS本月限时优惠",
-            "englishName":"Huawei Cloud Promotions",
-            "logo":"https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/wangxue/header/logo.svg",
-            "url":"https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=01ef8732-1063-460f-861c-cbc67046b18b&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905",
-            "des":"1C2G香港服务器仅售108元/13个月，活动月底截止，仅本入口有效",
-            "englishDes":""
-        },{
-            "name":"全网小说阅读器",
-            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/v2reading.png",
-            "url":"https://v2reading.com",
-            "des":"大更新，增加站点集合列表，全网1000+小说网站，完全免费，彻底实现小说自由"
-        },{
+        },
+        {
             "name":"关于节点测速正常无法访问网页的问题",
             "englishName":"about DNS questions",
             "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
@@ -42,13 +24,6 @@
             "englishDes":""
         },
         {
-            "name":"Foxo",
-            "englishName":"Foxo",
-            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/FoxoVPN.png",
-            "url":"https://v2cross.com/archives/1859",
-            "des":"专为小白打造，一键连接",
-            "englishDes":"Designed for novices, one-click connection"
-        },{
             "name":"软件使用视频教程(建议开启代理后观看)",
             "englishName":"Video tutorial",
             "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
