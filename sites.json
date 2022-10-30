@@ -14,8 +14,12 @@
             "url":"https://v2cross.com/archives/1799",
             "des":"免费且高质量",
             "englishDes":""
-        },
-        {
+        },{
+            "name":"全网小说动漫阅读器",
+            "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/v2reading.png",
+            "url":"https://v2reading.com",
+            "des":"大更新，增加站点集合列表，全网海量小说网站资源，完全免费，彻底实现小说自由"
+        },{
             "name":"关于节点测速正常无法访问网页的问题",
             "englishName":"about DNS questions",
             "logo":"https://raw.fastgit.org/Pawdroid/static/main/logo/logov2cross.png",
