@@ -1,0 +1,80 @@
+{
+    "data":[
+        {
+            "name":"Google",
+            "englishName":"Google",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/Google.png",
+            "url":"https://www.google.com",
+            "des":"您可以选择通过点击广告的方式来资助我们",
+            "englishDes":""
+        },{
+            "name":"V2CROSS论坛",
+            "englishName":"V2CROSS Forum",
+            "logo":"https://v2cross.net/uploads/photo/crosser/1dca6fa2-2a28-437d-af0c-96b79b3fb39e.jpg!large",
+            "url":"https://v2cross.com/archives/3698",
+            "des":"技术问题交流，闲聊",
+            "englishDes":""
+        },{
+            "name":"新版本10.6.0更新",
+            "englishName":"v10.6.0 Released",
+            "logo":"https://www.ris.world/wp-content/uploads/2018/09/update.jpg",
+            "url":"https://v2cross.com/archives/1799",
+            "des":"免费且高质量",
+            "englishDes":""
+        },{
+            "name":"关于节点测速正常无法访问网页的问题",
+            "englishName":"about DNS questions",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://v2cross.com/archives/1881",
+            "des":"",
+            "englishDes":""
+        },
+        {
+            "name":"软件使用视频教程(建议开启代理后观看)",
+            "englishName":"Video tutorial",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://shadowrocket.v2cross.com/video",
+            "des":"",
+            "englishDes":""
+        },
+        {
+            "name":"新手使用教程-新手先看这里",
+            "englishName":"Novice tutorial- for newer",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://v2cross.com/archives/1840",
+            "des":"",
+            "englishDes":""
+        },{
+            "name":"本工具介绍",
+            "englishName":"Introductions",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://v2cross.com/archives/1853",
+            "des":"",
+            "englishDes":""
+        },
+        {
+            "name":"版本升级日志",
+            "englishName":"Version logs",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://v2cross.com/archives/1855",
+            "des":"",
+            "englishDes":""
+        },
+        {
+            "name":"历史版本下载页",
+            "englishName":"History versions",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://v2cross.com/archives/1857",
+            "des":"",
+            "englishDes":""
+        },
+        {
+            "name":"应用内广告说明",
+            "englishName":"About Ads",
+            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
+            "url":"https://v2cross.com/archives/1851",
+            "des":"",
+            "englishDes":""
+        }
+    ]
+}
