@@ -1,14 +1,14 @@
 {
-    "versionCode":10006000,
-    "versionName":"v10.6.0",
+    "versionCode":10008200,
+    "versionName":"v10.8.2",
     "url":"https://shadowrocket.v2cross.com",
-    "v7url":"https://ghproxy.com/https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.6.0/app-shadowrocket-armeabi-v7a-release.apk",
-    "v8url":"https://ghproxy.com/https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.6.0/app-shadowrocket-arm64-v8a-release.apk",
-    "updateTitle":"10.6.0 版本更新",
-    "updateTitleEnglish":"v10.6.0 Released",
+    "v7url":"https://bitbucket.org/configshareworkk/foxovpn/downloads/app-shadowrocket-armeabi-v7a-release.apk",
+    "v8url":"https://bitbucket.org/configshareworkk/foxovpn/downloads/app-shadowrocket-arm64-v8a-release.apk",
+    "updateTitle":"10.8.2 版本更新",
+    "updateTitleEnglish":"v10.8.2 Released",
     "updateContent":"1、修复部分机场订阅失败的bug\n2、优化\n3、PC端请到https://v2cross.com下载\n快来更新使用吧，部分地区可能需要开启代理后才能更新。",
-    "updateContentEnglish":"The new version 10.6.0 is released",
+    "updateContentEnglish":"The new version 10.8.2 is released",
     "force":0,
-    "content":"1、建议升级到10.6.0最新版本，节点每3小时后台测速更新一次\n2、右上角点击一键测速，等待测速完成\n3、选择延迟较低的节点进行连接\n4、打开浏览器直接访问google即可\n5、广告是我们提高免费服务的唯一资金来源，希望大家可以真心支持，我们会持续提供最好的服务",
+    "content":"1、建议升级到10.8.2最新版本，建议每使用6小时更新一次节点\n2、右上角点击一键测速，等待测速完成\n3、选择延迟较低的节点进行连接\n4、打开浏览器直接访问google即可\n5、广告是我们提高免费服务的唯一资金来源，希望大家可以真心支持，我们会持续提供最好的服务",
     "contentEnglish":"1. Please wait for the free node update to complete, spend half a minute to screen the excellent nodes, first click on the upper right corner to test all configuration real connections, after the speed test is completed, you can directly sort by the speed test results\n2, it is not easy to maintain the servers, please also sincerely support We\n3, welcome everyone to join the TG group to communicate, come and experience it"
 }
