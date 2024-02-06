@@ -1,9 +1,9 @@
 {
-    "versionCode":1000800,
+    "versionCode":10008500,
     "versionName":"v10.8.5",
     "url":"https://shadowrocket.v2cross.com",
-    "v7url":"https://jihulab.com/read1/file01/-/raw/8157e78caf0a7320347d6ba8e15097005d1a7b79/ap/app-shadowrocket-armeabi-v7a-release.apk",
-    "v8url":"https://jihulab.com/read1/file01/-/raw/8157e78caf0a7320347d6ba8e15097005d1a7b79/ap/app-shadowrocket-arm64-v8a-release.apk",
+    "v7url":"https://jihulab.com/file99/temp/-/raw/619af921657f908db84f3fbf87d4d8a147f7a7a2/pan/armeabi-v7a-release.apk",
+    "v8url":"https://jihulab.com/file99/temp/-/raw/619af921657f908db84f3fbf87d4d8a147f7a7a2/pan/arm64-v8a-release.apk",
     "updateTitle":"10.8.5 版本更新",
     "updateTitleEnglish":"v10.8.5 Released",
     "updateContent":"1、优化更新\n2、修复闪退bug。",
