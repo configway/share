@@ -15,8 +15,8 @@
             "des":"技术问题交流，闲聊",
             "englishDes":""
         },{
-            "name":"新版本10.8.2更新",
-            "englishName":"v10.8.2 Released",
+            "name":"新版本10.8.5更新",
+            "englishName":"v10.8.5 Released",
             "logo":"https://www.ris.world/wp-content/uploads/2018/09/update.jpg",
             "url":"https://v2cross.com/archives/1799",
             "des":"免费且高质量",
@@ -49,22 +49,6 @@
             "englishName":"Introductions",
             "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
             "url":"https://v2cross.com/archives/1853",
-            "des":"",
-            "englishDes":""
-        },
-        {
-            "name":"版本升级日志",
-            "englishName":"Version logs",
-            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
-            "url":"https://v2cross.com/archives/1855",
-            "des":"",
-            "englishDes":""
-        },
-        {
-            "name":"历史版本下载页",
-            "englishName":"History versions",
-            "logo":"https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/static/main/logo/logov2cross.png",
-            "url":"https://v2cross.com/archives/1857",
             "des":"",
             "englishDes":""
         },
