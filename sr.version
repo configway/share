@@ -1,0 +1,14 @@
+{
+    "versionCode":10008500,
+    "versionName":"v10.8.5",
+    "url":"https://shadowrocket.v2cross.com",
+    "v7url":"https://openi.pcl.ac.cn/attachments/d57e641f-2f48-4597-b328-117e8e442fc3?type=0",
+    "v8url":"https://openi.pcl.ac.cn/attachments/b2817c7b-fd0e-4024-a79d-0cf8487ce49b?type=0",
+    "updateTitle":"10.8.5 版本更新",
+    "updateTitleEnglish":"v10.8.5 Released",
+    "updateContent":"1、优化更新\n2、修复闪退bug。",
+    "updateContentEnglish":"The new version 10.8.5 is released",
+    "force":0,
+    "content":"1、建议升级到10.8.5最新版本，建议每使用6小时更新一次节点\n2、右上角点击一键测速，等待测速完成\n3、选择延迟较低的节点进行连接\n4、打开浏览器直接访问google即可\n5、广告是我们提高免费服务的唯一资金来源，希望大家可以真心支持，我们会持续提供最好的服务",
+    "contentEnglish":"1. Please wait for the free node update to complete, spend half a minute to screen the excellent nodes, first click on the upper right corner to test all configuration real connections, after the speed test is completed, you can directly sort by the speed test results\n2, it is not easy to maintain the servers, please also sincerely support We\n3, welcome everyone to join the TG group to communicate, come and experience it"
+}
