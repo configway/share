@@ -1,0 +1,14 @@
+{
+        "versionCode":10009000,
+        "versionName":"v10.9.0",
+        "url":"https://shadowrocket.v2cross.com",
+        "v7url":"https://jihulab.com/gp3/ym/-/raw/main/v7.apk",
+        "v8url":"https://jihulab.com/gp3/ym/-/raw/main/v8.apk",
+        "updateTitle":"10.9.0 版本更新",
+        "updateTitleEnglish":"v10.9.0 Released",
+        "updateContent":"1、修复账号注册\n2、kernel优化。\n3、无法安装可以前往v2cross.com下载最新版",
+        "updateContentEnglish":"The new version 10.9.0 is released",
+        "force":0,
+        "content":"1、建议升级到10.10.3最新版本，建议每使用6小时更新一次节点\n2、右上角点击一键测速，等待测速完成\n3、选择延迟较低的节点进行连接\n4、打开浏览器直接访问google即可\n5、广告是我们提高免费服务的唯一资金来源，希望大家可以真心支持，我们会持续提供最好的服务",
+        "contentEnglish":"1. Please wait for the free node update to complete, spend half a minute to screen the excellent nodes, first click on the upper right corner to test all configuration real connections, after the speed test is completed, you can directly sort by the speed test results\n2, it is not easy to maintain the servers, please also sincerely support We\n3, welcome everyone to join the TG group to communicate, come and experience it"
+}
