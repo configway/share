@@ -1,0 +1,14 @@
+{
+    "versionCode": 10011087,
+    "versionName": "v10.10.51",
+    "url": "https://shadowrockets.app",
+    "v7url": "https://cdn.apkof.com/android/10.10.51-10011087/Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk",
+    "v8url": "https://cdn.apkof.com/android/10.10.51-10011087/Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk",
+    "updateTitle": "10.10.51 版本更新",
+    "updateTitleEnglish": "v10.10.51 Released",
+    "updateContent": "1、会员中心支持支付宝、微信支付，无需注册登录\n2、支付完成后一键返回应用，兑换码可随时验证找回\n3、新增会员专属线路与「安全浏览」功能\n4、升级代理核心，修复部分旧款 32 位手机启动崩溃\n5、修复多个问题，提升稳定性\n部分地区可能需要先开启代理再更新",
+    "updateContentEnglish": "1. Membership now accepts Alipay and WeChat Pay, no account needed\n2. Return to the app in one tap after payment; verify or recover your restore code anytime\n3. New Premium-only servers and Secure Browsing\n4. Upgraded proxy core; fixed a launch crash on some older 32-bit phones\n5. Bug fixes and stability improvements",
+    "force": 0,
+    "content": "1、建议升级到 10.10.51 最新版本，建议每 6 小时更新一次节点\n2、右上角点击一键测速，等待测速完成\n3、选择延迟较低的节点进行连接\n4、打开浏览器直接访问 Google 即可\n5、免费节点由广告支持；开通会员可去除广告并使用专属线路",
+    "contentEnglish": "1. Please upgrade to the latest version 10.10.51 and update nodes every 6 hours\n2. Tap one-click speed test in the upper right corner and wait for it to finish\n3. Connect to a node with lower latency\n4. Open your browser and visit Google directly\n5. Free nodes are supported by ads; Premium removes ads and adds private servers"
+}
