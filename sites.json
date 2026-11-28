@@ -1,0 +1,52 @@
+{
+    "data":[
+        {
+          "name": "10.10.51 更新了什么",
+          "englishName": "What's new in 10.10.51",
+          "logo": "https://shadowrockets.app/public/icon.png",
+          "url": "https://shadowrockets.app/zh/blog/10-10-51-release/",
+          "des": "更新说明",
+          "englishDes": "Release notes"
+        },
+        {
+          "name": "会员专属线路 · 更快更稳",
+          "englishName": "Premium servers: faster, private",
+          "logo": "https://shadowrockets.app/public/icon.png",
+          "url": "https://shadowrockets.app/zh/premium/",
+          "des": "免费节点不够快？看看会员线路",
+          "englishDes": "Not fast enough? See what Premium adds"
+        },
+        {
+          "name": "测速正常但打不开网页？点这里",
+          "englishName": "Connected but no internet? Read this",
+          "logo": "https://shadowrockets.app/public/icon.png",
+          "url": "https://shadowrockets.app/zh/docs/troubleshooting/",
+          "des": "三步自助排查",
+          "englishDes": "Three self-help steps"
+        },
+        {
+          "name": "新手教程：三分钟连上",
+          "englishName": "Getting started in 3 minutes",
+          "logo": "https://shadowrockets.app/public/icon.png",
+          "url": "https://shadowrockets.app/zh/docs/",
+          "des": "导入、连接、测速一步步来",
+          "englishDes": "Import, connect, test"
+        },
+        {
+          "name": "V2CROSS 论坛",
+          "englishName": "V2CROSS Forum",
+          "logo": "https://shadowrockets.app/public/icon.png",
+          "url": "https://v2cross.com/3698.html",
+          "des": "技术交流，闲聊",
+          "englishDes": "Community"
+        },
+        {
+          "name": "Google 连通性测试",
+          "englishName": "Google connectivity test",
+          "logo": "https://shadowrockets.app/public/icon.png",
+          "url": "https://www.google.com",
+          "des": "连上后先试试能不能打开",
+          "englishDes": "Open this after connecting"
+        }
+    ]
+}
